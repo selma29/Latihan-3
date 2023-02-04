@@ -36,6 +36,10 @@ print(random2);
 
 ![Gambar](gambar/1.png)
 
+# Flowchart latihan1.py
+
+![Gambar](gambar/5.png)
+
 
 # Latihan2.py
 Program untuk menampilkan bilangan terbesar dari N buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
@@ -81,6 +85,10 @@ if numberInput == 0:
 # Hasil output latihan2.py
 
 ![Gambar](gambar/2.png)
+
+# Flowchart latihan2.py
+
+![Gambar](gambar/6.png)
 
 # Program1.py
 Program sederhana dengan perulangan. Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
