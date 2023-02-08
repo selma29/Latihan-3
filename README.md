@@ -10,7 +10,7 @@ Kelas : TI.22.C9
 
 ## Latihan1.py
 
-Tampilkan N bilangan acak kurang dari 0,5.
+Program untuk menampilkan N bilangan acak kurang dari 0,5.
 
 Import Random.
 
@@ -32,16 +32,16 @@ Print hasil random.
 
     print(random2);
 
-# Hasil output latihan1.py
+## Hasil output latihan1.py
 
 ![Gambar](gambar/1.png)
 
-# Flowchart latihan1.py
+## Flowchart latihan1.py
 
 ![Gambar](gambar/5.png)
 
 
-# Latihan2.py
+## Latihan2.py
 Program untuk menampilkan bilangan terbesar dari N buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
 
 Buat variabel Array.
@@ -82,15 +82,15 @@ Menghentikan While dengan Breaks saat input == 0.
             print('Bilangan Terbesar adalah', max2);
             break;
 
-# Hasil output latihan2.py
+## Hasil output latihan2.py
 
 ![Gambar](gambar/2.png)
 
-# Flowchart latihan2.py
+## Flowchart latihan2.py
 
 ![Gambar](gambar/6.png)
 
-# Program1.py
+## Program1.py
 Program sederhana dengan perulangan. Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 Buat variabel Modal, dan laba.
@@ -128,7 +128,7 @@ Menampilkan Total Hasil Laba.
 
 ![Gambar](gambar/3.png)
 
-# Hasil Output Program1.py
+## Hasil Output Program1.py
 
 ![Gambar](gambar/4.png)
 
